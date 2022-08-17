@@ -1,0 +1,1 @@
+document.write("화녕합니다");
